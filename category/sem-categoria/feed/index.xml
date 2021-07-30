@@ -9,8 +9,8 @@
 
 <channel>
 	<title>Sem categoria &#8211; brunorsantos</title>
-	<atom:link href="https://rsbruno.github.io/brunorsantos/category/sem-categoria/feed/" rel="self" type="application/rss+xml" />
-	<link>https://rsbruno.github.io/brunorsantos</link>
+	<atom:link href="https://rsbruno.github.io/personal/category/sem-categoria/feed/" rel="self" type="application/rss+xml" />
+	<link>https://rsbruno.github.io/personal</link>
 	<description>Só mais um site WordPress</description>
 	<lastBuildDate>Fri, 30 Jul 2021 15:31:37 +0000</lastBuildDate>
 	<language>pt-BR</language>
@@ -21,20 +21,20 @@
 	<generator>https://wordpress.org/?v=5.8</generator>
 	<item>
 		<title>Olá, mundo!</title>
-		<link>https://rsbruno.github.io/brunorsantos/2021/07/30/ola-mundo/</link>
-					<comments>https://rsbruno.github.io/brunorsantos/2021/07/30/ola-mundo/#comments</comments>
+		<link>https://rsbruno.github.io/personal/2021/07/30/ola-mundo/</link>
+					<comments>https://rsbruno.github.io/personal/2021/07/30/ola-mundo/#comments</comments>
 		
 		<dc:creator><![CDATA[bruno]]></dc:creator>
 		<pubDate>Fri, 30 Jul 2021 15:31:37 +0000</pubDate>
 				<category><![CDATA[Sem categoria]]></category>
-		<guid isPermaLink="false">https://rsbruno.github.io/brunorsantos/?p=1</guid>
+		<guid isPermaLink="false">https://rsbruno.github.io/personal/?p=1</guid>
 
 					<description><![CDATA[Boas-vindas ao WordPress. Esse é o seu primeiro post. Edite-o ou exclua-o, e então comece a escrever!]]></description>
 										<content:encoded><![CDATA[
 <p>Boas-vindas ao WordPress. Esse é o seu primeiro post. Edite-o ou exclua-o, e então comece a escrever!</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>https://rsbruno.github.io/brunorsantos/2021/07/30/ola-mundo/feed/</wfw:commentRss>
+					<wfw:commentRss>https://rsbruno.github.io/personal/2021/07/30/ola-mundo/feed/</wfw:commentRss>
 			<slash:comments>1</slash:comments>
 		
 		
